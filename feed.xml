@@ -3,12 +3,32 @@
     <title>marty1</title>
     <link href="https://martinsolent.github.io/new/feed.xml" rel="self" />
     <link href="https://martinsolent.github.io/new" />
-    <updated>2020-12-13T21:53:27+00:00</updated>
+    <updated>2020-12-14T14:22:19+00:00</updated>
     <author>
         <name>Martin Reid</name>
     </author>
     <id>https://martinsolent.github.io/new</id>
 
+    <entry>
+        <title>jmjmj</title>
+        <author>
+            <name>Martin Reid</name>
+        </author>
+        <link href="https://martinsolent.github.io/new/jmjmj.html"/>
+        <id>https://martinsolent.github.io/new/jmjmj.html</id>
+
+        <updated>2020-12-14T14:22:19+00:00</updated>
+            <summary>
+                <![CDATA[
+                    mjmjmjmjmj
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>mjmjmjmjmj</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>New Post</title>
         <author>
