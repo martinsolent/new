@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://martinsolent.github.io/new/sitemap.xml
