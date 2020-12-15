@@ -3,12 +3,33 @@
     <title>marty1</title>
     <link href="https://martinsolent.github.io/new/feed.xml" rel="self" />
     <link href="https://martinsolent.github.io/new" />
-    <updated>2020-12-14T14:22:19+00:00</updated>
+    <updated>2020-12-15T15:06:49+00:00</updated>
     <author>
         <name>Martin Reid</name>
     </author>
     <id>https://martinsolent.github.io/new</id>
 
+    <entry>
+        <title>COM420</title>
+        <author>
+            <name>Martin Reid</name>
+        </author>
+        <link href="https://martinsolent.github.io/new/com420.html"/>
+        <id>https://martinsolent.github.io/new/com420.html</id>
+
+        <updated>2020-12-15T15:06:49+00:00</updated>
+            <summary>
+                <![CDATA[
+                    ktrjhhgkdjhgioknjkoejgioerjhgoeq jkgjfe
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>ktrjhhgkdjhgioknjkoejgioerjhgoeq</p>
+<p>jkgjfe</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>jmjmj</title>
         <author>
@@ -17,15 +38,17 @@
         <link href="https://martinsolent.github.io/new/jmjmj.html"/>
         <id>https://martinsolent.github.io/new/jmjmj.html</id>
 
-        <updated>2020-12-14T14:22:19+00:00</updated>
+        <updated>2020-12-14T15:23:04+00:00</updated>
             <summary>
                 <![CDATA[
-                    mjmjmjmjmj
+                    mjmjmjmjmjgmn,m,mn,m ;nklk
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>mjmjmjmjmj</p>
+                <p>mjmjmjmjmjgmn,m,mn,m</p>
+<p> </p>
+<p>;nklk</p>
             ]]>
         </content>
     </entry>
